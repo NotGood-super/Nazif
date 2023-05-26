@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/nazif-brand/static/css/main.eedeb09c.css",
+    "main.js": "/nazif-brand/static/js/main.e29c5ef8.js",
+    "static/media/nazif-high-resolution-logo-black-on-white-background.png": "/nazif-brand/static/media/nazif-high-resolution-logo-black-on-white-background.63fdcdd0a43589105fe0.png",
+    "index.html": "/nazif-brand/index.html",
+    "main.eedeb09c.css.map": "/nazif-brand/static/css/main.eedeb09c.css.map",
+    "main.e29c5ef8.js.map": "/nazif-brand/static/js/main.e29c5ef8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eedeb09c.css",
+    "static/js/main.e29c5ef8.js"
+  ]
+}
