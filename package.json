@@ -1,7 +1,8 @@
 {
+  "homepage": "http://NotGood-super.github.io/nazif-brand",
   "name": "nazif-brand",
   "version": "0.1.0",
-  "home": "https://github.com/NotGood-super/nazif3.git",
+ 
   "private": true,
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^6.4.0",
